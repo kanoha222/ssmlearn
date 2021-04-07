@@ -43,3 +43,4 @@
     <!--5.如果定义的transcationManager bean为“transactionManager” 则如下所示省略transaction-manager属性-->
     <tx:annotation-driven />
 </beans>
+
